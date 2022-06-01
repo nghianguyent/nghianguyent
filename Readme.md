@@ -7,7 +7,9 @@
        <h2> Hi there, I'm Nghia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" /> </h2>
 </div>
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=nghia14302&theme=dark)
+<div align="center">
+   <img margin="4px" src="https://github-readme-streak-stats.herokuapp.com/?user=nghia14302&theme=dark" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghia14302&theme=dark" />
+</div> 
 
 ![](https://github-profile-trophy.vercel.app/?username={username})
