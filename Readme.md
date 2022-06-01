@@ -8,6 +8,6 @@
 </div>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nghia14302)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nghia14302&theme=dark)
 
 ![](https://github-profile-trophy.vercel.app/?username={username})
