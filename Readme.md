@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> <br/>
-  ![](https://komarev.com/ghpvc/?username=nghia14302&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=nghia14302&style=for-the-badge" />
 </div>
 
 <div align="center">
@@ -9,3 +9,5 @@
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nghia14302)
+
+![](https://github-profile-trophy.vercel.app/?username={username})
