@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-       <h2> Hi there, I'm Nghia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" /> </h2>
+       <h2> Hi there, I'm Nghia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px" /> </h2>
 </div>
 
 
