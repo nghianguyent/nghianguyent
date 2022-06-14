@@ -15,6 +15,6 @@
 
 | <h3> 🏆 Streak </h3>|<h3> 💻 Most language using </h3>  |
 | -- | -- |
-| <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=nghia14302&theme=tokyonight" /> | <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghia14302&compact&theme=tokyonight" /> |
+| <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=nghia14302&theme=tokyonight" /> | <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghia14302&layout=compact&theme=tokyonight" /> |
 
 
