@@ -8,7 +8,7 @@
   </div>
  
 <br>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nghia14302&theme=tokyonight" height="180em"/>
+  <img align="right" src="https://github.com/nghia14302/nghia14302/blob/main/logo/banner2.gif" height="500px"/>
   
   - 🔭 I’m currently a 3rd year student at FPT University 
   - 🌱 My Major is **Software Engineering**
