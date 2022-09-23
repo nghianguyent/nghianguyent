@@ -38,8 +38,8 @@
 <h3>⚙️ &nbsp; My Github Analytics </h3>
 <p align="center">
 <a href="https://github.com/smir45">
-  <img height="180em" margin="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=nghia14302&theme=tokyonight"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=nghia14302&theme=tokyonight" height="180em"/>
+  <img height="160em" margin="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=nghia14302&theme=tokyonight"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=nghia14302&theme=tokyonight" height="160em"/>
 </a>
 </p>
 
