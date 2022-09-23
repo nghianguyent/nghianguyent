@@ -16,7 +16,6 @@
   - 💬 Contact me anytime!
   - 😄 Pronouns : **He/Him/His**
 <br>
-<br>
 <div align="center">
   <h2> 💻 Tech Stack </h2>
   <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="100" src="https://github.com/nghia14302/nghia14302/blob/main/logo/Teck%20Stack/html5.gif" alt="html"></a>
@@ -53,7 +52,7 @@
   <a href="https://www.facebook.com/DVIL.NTN/" target="blank"><img align="center"
       src="https://github.com/nghia14302/nghia14302/blob/main/logo/Social/facebook.gif"
       alt="adam pithen wala" width="80" /></a>
-  <a href="nghia1432002@gmail.com" target="blank"><img align="center"
+  <a href="mailto: nghia14302@gmail.com" target="blank"><img align="center"
       src="https://github.com/nghia14302/nghia14302/blob/main/logo/Social/gmail.gif"
       alt="_._.adam._"  width="80" /></a>
   <a href="https://github.com/nghia14302/" target="blank"><img align="center"
@@ -61,7 +60,7 @@
       alt="adampithewan"  width="80" /></a>
   </div>
   
-  <h4>❤️ Thank you, have a nice day! 🎆<h4>
+  <h4>🔥 Nothing can be impossible 🔥<h4>
   
 </div>
 
