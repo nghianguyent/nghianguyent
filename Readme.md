@@ -8,13 +8,19 @@
   </div>
  
 <br>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nghia14302&theme=tokyonight" height="180em"/>
+  <img align="right" src="https://github.com/nghia14302/nghia14302/blob/main/logo/banner2.gif" height="320px" width="420px"/>
+  
+  <h3> 🎈 About me </h3>
   
   - 🔭 I’m currently a 3rd year student at FPT University 
   - 🌱 My Major is **Software Engineering**
   - 👯 I’m looking to collaborate on **Web Development**
   - 💬 Contact me anytime!
   - 😄 Pronouns : **He/Him/His**
+<br>
+<br>
+<br>
+<br>
 <br>
 <div align="center">
   <h2> 💻 Tech Stack </h2>
@@ -29,11 +35,6 @@
    <a margin="10" href="" target="_blank"><img margin="10px" height="100" src="https://github.com/nghia14302/nghia14302/blob/main/logo/Teck%20Stack/java.gif" alt="reactjs"></a>
 </div>
 
-<h2></h2>
-<h3>🎉 My activitive </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=nghia14302&theme=rogue" />
-<h2></h2>
-
 <h3>⚙️ &nbsp; My Github Analytics </h3>
 <p align="center">
 <a href="https://github.com/smir45">
@@ -42,6 +43,10 @@
 </a>
 </p>
 
+<h2></h2>
+<h3>🎉 My activitive </h3>
+<img src="https://activity-graph.herokuapp.com/graph?username=nghia14302&theme=rogue" />
+<h2></h2>
 ------
 <div align="center">
   <h3>🗨️ Contact me</h3>
