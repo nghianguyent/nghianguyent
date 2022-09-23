@@ -8,7 +8,7 @@
   </div>
  
 <br>
-  <img align="right" src="https://github.com/nghia14302/nghia14302/blob/main/logo/banner2.gif" height="360px" width="420px"/>
+  <img align="right" src="https://github.com/nghia14302/nghia14302/blob/main/logo/banner2.gif" height="320px" width="420px"/>
   
   <h3> 🎈 About me </h3>
   
@@ -17,8 +17,6 @@
   - 👯 I’m looking to collaborate on **Web Development**
   - 💬 Contact me anytime!
   - 😄 Pronouns : **He/Him/His**
-<br>
-<br>
 <br>
 <br>
 <br>
