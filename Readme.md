@@ -38,16 +38,19 @@
 <h3>⚙️ &nbsp; My Github Analytics </h3>
 <p align="center">
 <a href="https://github.com/smir45">
-  <img height="160em" margin="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=nghia14302&theme=tokyonight"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=nghia14302&theme=tokyonight" height="160em"/>
+  <img height="140em" margin="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=nghia14302&theme=tokyonight"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=nghia14302&theme=tokyonight" height="140em"/>
 </a>
 </p>
 
 <h2></h2>
 <h3>🎉 My activitive </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=nghia14302&theme=rogue" />
-<h2></h2>
+<div align="center">
+  <img height="290px" src="https://activity-graph.herokuapp.com/graph?username=nghia14302&theme=rogue" />
+</div>
+
 ------
+
 <div align="center">
   <h3>🗨️ Contact me</h3>
   <div align="center">
