@@ -46,7 +46,7 @@
 <h2></h2>
 <h3>🎉 My activitive </h3>
 <div align="center">
-  <img height="290px" src="https://activity-graph.herokuapp.com/graph?username=nghia14302&theme=rogue" />
+  <img height="290px" src="https://github-readme-activity-graph.cyclic.app/graph?username=nghia14302&hide_border=true&theme=nightowl" />
 </div>
 
 ------
