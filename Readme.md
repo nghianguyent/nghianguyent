@@ -63,8 +63,8 @@
   <a href="mailto: nghia14302@gmail.com" target="blank"><img align="center"
       src="https://github.com/nghia14302/nghia14302/blob/main/logo/Social/gmail.gif"
       alt="_._.adam._"  width="80" /></a>
-  <a href="https://github.com/nghia14302/" target="blank"><img align="center"
-      src="https://github.com/nghia14302/nghia14302/blob/main/logo/Social/github.gif"
+  <a href="https://github.com/nghianguyent/" target="blank"><img align="center"
+      src="https://github.com/nghianguyent/nghianguyent/blob/main/logo/Social/github.gif"
       alt="adampithewan"  width="80" /></a>
   </div>
   
