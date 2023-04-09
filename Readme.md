@@ -54,14 +54,14 @@
 <div align="center">
   <h3>🗨️ Contact me</h3>
   <div align="center">
-    <a href="https://www.linkedin.com/in/nghia-nguy%E1%BB%85n-2a3866160/" target="blank"><img align="center"
-      src="https://github.com/nghia14302/nghia14302/blob/main/logo/Social/linkedin.gif"
+    <a href="https://www.linkedin.com/in/ngh%C4%A9a-nguy%E1%BB%85n-2a3866160" target="blank"><img align="center"
+      src="https://github.com/nghianguyent/nghianguyent/blob/main/logo/Social/linkedin.gif"
       alt="adam pithewan" width="80" /></a>
   <a href="https://www.facebook.com/DVIL.NTN/" target="blank"><img align="center"
-      src="https://github.com/nghia14302/nghia14302/blob/main/logo/Social/facebook.gif"
+      src="https://github.com/nghianguyent/nghianguyent/blob/main/logo/Social/facebook.gif"
       alt="adam pithen wala" width="80" /></a>
   <a href="mailto: nghia14302@gmail.com" target="blank"><img align="center"
-      src="https://github.com/nghia14302/nghia14302/blob/main/logo/Social/gmail.gif"
+      src="https://github.com/nghianguyent/nghianguyent/blob/main/logo/Social/gmail.gif"
       alt="_._.adam._"  width="80" /></a>
   <a href="https://github.com/nghianguyent/" target="blank"><img align="center"
       src="https://github.com/nghianguyent/nghianguyent/blob/main/logo/Social/github.gif"
