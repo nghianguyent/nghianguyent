@@ -26,27 +26,27 @@
   <h2> 💻 Tech Stack </h2>
   <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="100" src="https://github.com/nghia14302/nghia14302/blob/main/logo/Teck%20Stack/html5.gif" alt="html"></a>
   <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="100" src="https://github.com/nghia14302/nghia14302/blob/main/logo/Teck%20Stack/css.gif" alt="css"></a>
-  <a margin="10" href="" target="_blank"><img margin="10px" height="90" src="https://github.com/nghia14302/nghia14302/blob/main/logo/Teck%20Stack/docker.gif" alt="docker"></a>
-  <a margin="10" href="" target="_blank"><img margin="10px" height="90" src="https://github.com/nghia14302/nghia14302/blob/main/logo/Teck%20Stack/socketio.gif" alt="socketio"></a>
-    <a margin="10" href="" target="_blank"><img margin="10px" height="90" src="https://github.com/nghia14302/nghia14302/blob/main/logo/Teck%20Stack/c.gif" alt="c"></a>
+  <a margin="10" href="" target="_blank"><img margin="10px" height="90" src="https://github.com/nghianguyent/nghianguyent/blob/main/logo/Teck%20Stack/docker.gif" alt="docker"></a>
+  <a margin="10" href="" target="_blank"><img margin="10px" height="90" src="https://github.com/nghianguyent/nghianguyent/blob/main/logo/Teck%20Stack/socketio.gif" alt="socketio"></a>
+    <a margin="10" href="" target="_blank"><img margin="10px" height="90" src="https://github.com/nghianguyent/nghianguyent/blob/main/logo/Teck%20Stack/c.gif" alt="c"></a>
   <br>
   <a margin="10" href="https://reactjs.org/" target="_blank"><img margin="10px" height="100" src="https://github.com/nghia14302/nghia14302/blob/main/logo/Teck%20Stack/nodejs.gif" alt="nodjes"></a>
   <a margin="10" href="https://nodejs.org/en/" target="_blank"><img margin="10px" height="100" src="https://github.com/nghia14302/nghia14302/blob/main/logo/Teck%20Stack/reactjs.gif" alt="reactjs"></a>
-   <a margin="10" href="" target="_blank"><img margin="10px" height="100" src="https://github.com/nghia14302/nghia14302/blob/main/logo/Teck%20Stack/java.gif" alt="reactjs"></a>
+   <a margin="10" href="" target="_blank"><img margin="10px" height="100" src="https://github.com/nghianguyent/nghianguyent/blob/main/logo/Teck%20Stack/java.gif" alt="reactjs"></a>
 </div>
 
 <h3>⚙️ &nbsp; My Github Analytics </h3>
 <p align="center">
 <a href="https://github.com/smir45">
-  <img height="140em" margin="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=nghia14302&theme=tokyonight"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=nghia14302&theme=tokyonight" height="140em"/>
+  <img height="140em" margin="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=nghianguyent&theme=tokyonight"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=nghianguyent&theme=tokyonight" height="140em"/>
 </a>
 </p>
 
 <h2></h2>
 <h3>🎉 My activitive </h3>
 <div align="center">
-  <img height="290px" src="https://github-readme-activity-graph.cyclic.app/graph?username=nghia14302&hide_border=true&theme=nightowl" />
+  <img height="290px" src="https://github-readme-activity-graph.cyclic.app/graph?username=nghianguyent&hide_border=true&theme=nightowl" />
 </div>
 
 ------
