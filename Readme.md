@@ -12,7 +12,7 @@
   
   <h3> 🎈 About me </h3>
   
-  - 🔭 I’m currently a 3rd year student at FPT University 
+  - 🔭 I’m currently a final year student at FPT University 
   - 🌱 My Major is **Software Engineering**
   - 👯 I’m looking to collaborate on **Web Development**
   - 💬 Contact me anytime!
