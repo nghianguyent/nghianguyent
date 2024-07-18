@@ -60,7 +60,7 @@
   <a href="https://www.facebook.com/DVIL.NTN/" target="blank"><img align="center"
       src="https://github.com/nghianguyent/nghianguyent/blob/main/logo/Social/facebook.gif"
       alt="adam pithen wala" width="80" /></a>
-  <a href="mailto: nghia14302@gmail.com" target="blank"><img align="center"
+  <a href="mailto: contact.nghianguyent@gmail.com" target="blank"><img align="center"
       src="https://github.com/nghianguyent/nghianguyent/blob/main/logo/Social/gmail.gif"
       alt="_._.adam._"  width="80" /></a>
   <a href="https://github.com/nghianguyent/" target="blank"><img align="center"
