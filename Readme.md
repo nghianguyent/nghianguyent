@@ -22,9 +22,10 @@
 <br>
 <br>
 
-<h2 align="center"> 💻 Tech Stack </h2>
+<h2 align="center"> 💻 Tech Stack</h2>
 
 <div align="center">
+  
 ### Languages
 <p align="center"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
