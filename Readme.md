@@ -47,7 +47,7 @@
 <h2></h2>
 <h3>🎉 My activitive </h3>
 <div align="center">
-  <img height="290px" src="https://github-readme-activity-graph.cyclic.app/graph?username=nghianguyent&hide_border=true&theme=nightowl" />
+  <img height="290px" src="https://github-readme-activity-graph.vercel.app/graph?username=nghianguyent&hide_border=true&theme=nightowl" />
 </div>
 
 ------
